@@ -25,8 +25,8 @@ tags:
 
 
 <h1>学习资料清单</h1>
-*吴恩达的Machine learning[教程](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning)，
-*UFLDL	[中文版教程](http://ufldl.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)，
+* 吴恩达的Machine learning[教程](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning)，
+* UFLDL	[中文版教程](http://ufldl.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)，
 * [《Qt学习之路2》](https://www.devbean.net/category/qt-study-road-2/)   [Qt](https://www.devbean.net/2012/08/qt-study-road-2-intro/)
 * [吴恩哒-cs229笔记下载地址](https://github.com/Kivy-CN/Stanford-CS-229-CN)
 
@@ -36,7 +36,7 @@ tags:
     * Neural Network and Deep Learning
     * 数字图像处理
     * 毛星云的opencv
-    *《deep learning》
-    *《c++ primer》 
-    *《21天实战caffe》
+    * 《deep learning》
+    * 《c++ primer》 
+    * 《21天实战caffe》
 
