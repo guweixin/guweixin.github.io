@@ -13,7 +13,7 @@ tags:
 >像我这样优秀的人，本该灿烂过一生，怎么二十多年到头来，还在人海里浮沉。
 >														——业余巨星毛不易
 
-<h1>前言
+<h1>前言</h1>
 <br>2017.9.16
 <br>披星戴月，抵达魔都。
 <br>
@@ -24,7 +24,7 @@ tags:
 <br>
 
 
-<h1>学习资料清单
+<h1>学习资料清单</h1>
 *吴恩达的Machine learning[教程](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning)，
 *UFLDL	[中文版教程](http://ufldl.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)，
 * [《Qt学习之路2》](https://www.devbean.net/category/qt-study-road-2/)   [Qt](https://www.devbean.net/2012/08/qt-study-road-2-intro/)
