@@ -35,11 +35,23 @@ tags:
 	* 二级列表
 *还是列表
 
+[img](/img/in-post/post-metro-ui.jpg)
+
+<pre>
+  照片Icon     One   One
+主屏幕 ⇌ 相簿列表 ⇌ 相簿 ⇌ 单张照片
+    Home      Back  Back
+</pre>
 
 <div>
     <blockquote>
         <br>块块</blockquote>
     <br>
     <br><b>加粗</b>
+    <ul>
+        <li><b>1</b>
+        </li>
+    </ul>恩
 </div>
-
+  <img class="shadow" src="/img/in-post/post-kuaidi-2.jpg" width="260">
+  <a data-hash="43d639a3d763d3dad948e0bc4c645eec" href="http://www.zhihu.com/people/43d639a3d763d3dad948e0bc4c645eec" class="member_mention" data-editable="true" data-title="@赛门" data-tip="p$b$43d639a3d763d3dad948e0bc4c645eec">@赛门</a>
