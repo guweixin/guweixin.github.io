@@ -1,0 +1,45 @@
+---
+layout:     post
+title:      "Hello New life"
+subtitle:   " \"你这烂记性，下次记住哦\""
+date:       2018-09-05 17:00:00
+author:     "谷阿幻"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 金刚钻
+---
+
+
+>---
+>layout:     post                       
+>title:      "Hello New life"
+>subtitle:   " \"你这烂记性，下次记住哦\""
+>date:       2018-09-05 17:00:00
+>author:     "谷阿幻"
+>header-img: "img/post-bg-2015.jpg"
+>catalog: true
+>tags:
+>    - 金刚钻
+>---
+
+## 标题
+
+[链接 ](#build) 
+<p id = "build"></p>
+---
+
+* **加粗** 
+*就是列表
+* 一级列表
+	* 二级列表
+*还是列表
+
+
+<div>
+    <blockquote>
+        <br>块块</blockquote>
+    <br>
+    <br><b>加粗</b>
+</div>
+
