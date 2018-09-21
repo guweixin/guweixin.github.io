@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      "[python100]_1"
+#subtitle:   " \"你这烂记性，下次记住哦\""
+date:       2018-09-05 19:00:00
+author:     "谷阿幻"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - python实例100
+---
+
+
