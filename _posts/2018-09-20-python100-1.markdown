@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "[python100]_1"
+title:      "python实例100"
 #subtitle:   " \"你这烂记性，下次记住哦\""
 date:       2018-09-05 19:00:00
 author:     "谷阿幻"
@@ -9,6 +9,20 @@ catalog: true
 tags:
     - python实例100
 ---
-
-
 https://maxwellyue.github.io/2016/08/07/%E5%A6%82%E4%BD%95%E8%AE%A9%E8%B0%B7%E6%AD%8C%E5%92%8C%E7%99%BE%E5%BA%A6%E6%90%9C%E7%B4%A2%E5%88%B0%E8%87%AA%E5%B7%B1GitHub%E4%B8%8A%E7%9A%84%E5%8D%9A%E5%AE%A2/
+<h1>Python 练习实例1</h1>
+
+<p><b>题目：</b>有四个数字：1、2、3、4，能组成多少个互不相同且无重复数字的三位数？各是多少？
+
+<b>程序分析：</b>可填在百位、十位、个位的数字都是1、2、3、4。组成所有的排列后再去 掉不满足条件的排列。
+
+<b>程序源代码：</b>
+<br>
+for i in range(1,5):
+    for j in range(1,5):
+        for k in range(1,5):
+            if( i != k ) and (i != j) and (j != k):
+                print i,j,k
+<br>
+<br>
+<br>
