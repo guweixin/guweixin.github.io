@@ -39,4 +39,7 @@ tags:
     * 《deep learning》
     * 《c++ primer》 
     * 《21天实战caffe》
-
+[深度学习入门](https://deeplearning4j.org/cn/deeplearningforbeginners.html)
+[Python100例](http://www.runoob.com/python/python-100-examples.html)
+[leetcode英文](https://leetcode.com/)
+[netscope](http://ethereon.github.io/netscope/#/editor)

@@ -3,8 +3,8 @@ title: Fiona Blog
 SEOTitle: 谷阿幻的博客 | Fiona Blog
 header-img: img/home-bg.jpg
 email: guweixin123@126.com
-description: "关于前端与设计、黑客与画家 | 谷阿幻，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Fiona谷阿幻 的个人博客，与你一起发现更大的世界。"
-keyword: "谷阿幻, Fiona谷阿幻, Fiona, 鬼栈, Fionapro, @Fionapro, 谷阿幻的博客, Fiona Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+description: "谷阿幻，做个诗意的，自由的，疯癫的自己。关于 算法，编程，电影，音乐，文学，历史，美剧。| 这里是 @谷阿幻 的个人博客，与你一起发现更大的世界。"
+keyword: "谷阿幻, Fiona谷阿幻, Fiona, Fionapro, @Fionapro, 谷阿幻的博客, Fiona Blog, 博客, 个人网站, 互联网, C++, 算法, python"
 url: "https://guweixin.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     Fionapro
-zhihu_username:     Fionapro
-github_username:    Fionapro
-twitter_username:   Fionapro
-#facebook_username:  Fionapro
+weibo_username:     谷阿幻
+zhihu_username:     谷阿幻
+github_username:    guweixin
+#twitter_username:   Fionapro
+facebook_username:  谷维鑫
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -66,7 +66,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: https://guweixin.github.io/
 
 
 
