@@ -10,8 +10,6 @@ catalog:      true
 multilingual: true
 tags:
     - 计划单
-    - JavaScript
-    - PWA
 ---
 
 <!-- Chinese Version -->
