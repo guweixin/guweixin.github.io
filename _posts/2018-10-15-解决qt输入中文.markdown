@@ -7,28 +7,28 @@ author:     "谷阿幻"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - 软件使用技巧
+    - 软件小技巧
 ---
 
 
 环境： 
-ubuntu16.04 
-fcitx的输入法 
-Qt Creator 5.10.1
+    ubuntu16.04 
+    fcitx的输入法 
+    Qt Creator 5.10.1
 
 首先需要安装
 
-sudo apt-get install fcitx-frontend-qt5
+>sudo apt-get install fcitx-frontend-qt5
 
 然后将：
 
-/usr/lib/x86_64-linux-gnu/qt5/plugins/platforminputcontexts/libfcitxplatforminputcontextplugin.so
+>/usr/lib/x86_64-linux-gnu/qt5/plugins/platforminputcontexts/libfcitxplatforminputcontextplugin.so
 
 拷贝到： 
-~/Qt/5.10.1/gcc_64/plugins/platforminputcontexts 
-~/Qt/Tools/QtCreator/lib/Qt/plugins/platforminputcontexts
+>~/Qt/5.10.1/gcc_64/plugins/platforminputcontexts 
+>~/Qt/Tools/QtCreator/lib/Qt/plugins/platforminputcontexts
 
 重启后就可以了。
---------------------- 
 
-版权声明：本文为博主原创文章，转载请附上博文链接！ https://blog.csdn.net/zmnqazqaz/article/details/80074578
+
+版权声明：该篇为转载，[原文链接](https://blog.csdn.net/zmnqazqaz/article/details/80074578)
