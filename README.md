@@ -1,8 +1,8 @@
-# Hux Blog
+# Fiona Blog
 
-### [View Live Hux Blog &rarr;](https://huangxuan.me)
+### [View Live Fiona Blog &rarr;](https://guweixin.github.io//)
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](https://guweixin.github.io/img/blog-desktop.jpg)
 
 
 
